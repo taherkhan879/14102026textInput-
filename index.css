@@ -1,0 +1,33 @@
+/* write your css code here*/
+.container {
+  background-color: #f5d0fe;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  align-items: center;
+}
+.button {
+  background-color: #d946ef;
+  border: solid transparent 1px;
+  color: #ffffff;
+  margin: 10px;
+  border-radius: 10px;
+  border-radius: 5px;
+}
+.cont {
+  background-color: #ffffff;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.border {
+  border: #cbd2d9 solid 1px;
+  border-radius: 5px;
+  color: #cbd2d9;
+  height: 20px;
+}
+.noborder {
+  border-width: 0px;
+}
